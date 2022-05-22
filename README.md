@@ -1,7 +1,7 @@
-### Olá! Eu sou o Ricardo Victor 👋
+### Hi there, I'm Ricardo Victor 👋
 
-- 🔭 Hoje trabalho como Desevolvedor C# .Net.
-- 🌱 Estudando HTML, CSS, JavaScript e Vue.js
+- 🔭 I'm currently working as a .Net C# Developer.
+- 🌱 Studying HTML, CSS, JavaScript e Vue.js
 
 <div align="center">
   <a href="https://github.com/RicardoVictor">
