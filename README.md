@@ -2,8 +2,6 @@
 
 - 🔭 Hoje eu trabalho como Desevolvedor C# .Net.
 - 🌱 Estudando HTML, CSS, JavaScript e Vue.js
-- 📫 Contate-me no Linkedin: [clique aqui](linkedin.com/in/ricardo-victor).
-- 📧 email: rvictorsoliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/RicardoVictor">
@@ -23,3 +21,11 @@
 </div>
   
   ---
+
+<div> 
+  <a href = "mailto:rvictorsoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-victor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
