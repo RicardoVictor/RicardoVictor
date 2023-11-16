@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo Victor 👋
 
--🧑‍💻 I'm a full-stack developer working with C# and .Net for the backend and Angular (+ JavaScript, CSS and HTML) for the frontend.
+🧑‍💻 I'm a full-stack developer working with C# and .Net for the backend and Angular (+ JavaScript, CSS and HTML) for the frontend.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
