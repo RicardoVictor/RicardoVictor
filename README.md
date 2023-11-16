@@ -1,7 +1,6 @@
 ### Hi there, I'm Ricardo Victor 👋
 
-- 🔭 I'm currently working as a .Net C# Developer.
-- 🌱 Studying HTML, CSS, JavaScript e Vue.js
+- I'm a full-stack developer working with C# and .Net for the backend and Angular (+ JavaScript, CSS and HTML) for the frontend.
 
 <div align="center">
   <a href="https://github.com/RicardoVictor">
